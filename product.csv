@@ -1,0 +1,4 @@
+name,description,published,price,rating,image
+Phone,Smartphone,true,500,4.5,phone.jpg
+Laptop,Gaming laptop,true,1500,4.7,laptop.jpg
+Tablet,Android tablet,false,300,4.2,tablet.jpg
